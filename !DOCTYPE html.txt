@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Shrekmas MemeCoin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1a2b34;
+            color: #fff;
+            text-align: center;
+        }
+        header {
+            background-color: #27ae60;
+            padding: 20px 0;
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        .tagline {
+            font-size: 1.5em;
+            margin-top: 10px;
+        }
+        .cta-button {
+            background-color: #e74c3c;
+            color: #fff;
+            font-size: 1.2em;
+            padding: 15px 30px;
+            border: none;
+            margin-top: 20px;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+        .cta-button:hover {
+            background-color: #c0392b;
+        }
+        section {
+            padding: 40px;
+            background-color: #2c3e50;
+            margin: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #27ae60;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        footer p {
+            margin: 0;
+            font-size: 1em;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🎄 Shrekmas MemeCoin 🎄</h1>
+        <p class="tagline">The holiday hype you’ve been waiting for! 🚀</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Shrekmas</h2>
+        <p>It’s the most degen time of the year! Forget boring Christmas gifts, grab your $SHREKMAS coin and join the ride to the moon. Green like Shrek, hot like your holiday dreams. 🚀</p>
+        <p>Join the meme madness today and let’s see those bags grow. 💸</p>
+        <button class="cta-button">Get Your $SHREKMAS Now!</button>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shrekmas MemeCoin | All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
